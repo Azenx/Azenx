@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Azenx
-- 👀 I’m interested in Math; Physics And Computer Science.
+- 👀 I’m interested in ✨Math; Physics And Computer Science✨
     - I also like Ethnical Hacking.
 - 🌱 I’m currently learning PHP !!!
 - 💞️ I like open problems <<3!!!
-- 📫 How to reach me : Unless you can send messages on github, you cannot.
+- 📫 How to reach me : Dont.
 
 <!---
 Azenx/Azenx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
